@@ -12,7 +12,7 @@ I'm a dedicated Business and Data Analyst passionate about solving problems, opt
 - Data Analysis: SQL, Python, Power BI, Tableau
 
 🌱 Current Focus:
-I'm pursuing a Postgraduate Certificate in Information Systems Business Analysis to deepen my expertise and make meaningful contributions to real-world challenges in the business analysis field.
+- I'm pursuing a Postgraduate Certificate in Information Systems Business Analysis to deepen my expertise and make meaningful contributions to real-world challenges in the business analysis field.
 
 Feel free to connect, collaborate, or explore my projects here!
 
