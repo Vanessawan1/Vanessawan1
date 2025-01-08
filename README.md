@@ -8,8 +8,8 @@ I'm a dedicated Business and Data Analyst passionate about solving problems, opt
 - Collaborate across teams to deliver value-driven outcomes.
 
 💡 Skills & Tools:
-- Business Analysis: Requirements gathering, process modeling, and stakeholder engagement
-- Data Analysis: SQL, Python, Power BI, Tableau
+- Business Analysis: Requirements gathering, process modeling, data modeling, use case modeling and stakeholder engagement
+- Data Analysis: SQL, Python, VBA, Excel, Power BI, Tableau
 
 🌱 Current Focus:
 - I'm pursuing a Postgraduate Certificate in Information Systems Business Analysis to deepen my expertise and make meaningful contributions to real-world challenges in the business analysis field.
